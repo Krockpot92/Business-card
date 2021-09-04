@@ -42,7 +42,9 @@ img{
 
 /* wasn't sure how to center links properly */
 li {
-  text-align: left;
+  text-align: center;
+  margin-left:auto;
+  margin-right: auto;
   background-color: lightgray;
   padding: 5px 225px;
   
